@@ -2,7 +2,7 @@
 
 ## About
 
-Tikera, a cinema ticket booking web app. This project is the final programming project for the Client-side Web Programming course, part of the Computer Science BSc program at ELTE. The REST API was provided, and the main task was to develop the front-end of the "Tikera" application using React, Redux, and RTK Query.
+Tikera (a cinema ticket booking web app) is the final programming project for the Client-side Web Programming course, part of the Computer Science BSc program at ELTE. The REST API was provided, and the main task was to develop the front-end of the "Tikera" application using React, Redux, and RTK Query.
 
 ## Tasks
 
@@ -50,3 +50,4 @@ php artisan serve
 npm install
 npm run dev
 ```
+
