@@ -50,8 +50,12 @@ php artisan serve
 npm install
 npm run dev
 ```
+
+### Testing
+
 Admin user credentials: 
 <br>email: `admin@example.com`
 <br>password: `admin`
+
 
 
