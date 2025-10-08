@@ -20,7 +20,7 @@ Tikera (a cinema ticket booking web app) is the final programming project for th
 ### Additional features
 
 - Dark/light theme preference, saved in localStorage.
-- Responsive design, the website is responsive on mobiles, tablets and desktops.
+- The website features a responsive design for optimal viewing on all devices.
 - Toasts that display information about the result of operations (successfull/failed).
 
 ## Libraries and Frameworks Used
@@ -53,4 +53,5 @@ npm run dev
 Admin user credentials: 
 <br>email: `admin@example.com`
 <br>password: `admin`
+
 
