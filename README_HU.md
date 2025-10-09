@@ -4,7 +4,7 @@
 
 ## Leírás
 
-A Tikera (egy mozijegy-foglaló webalkalmazás) a **Kliensoldali Webprogramozás** kurzus utolsó programozási projektje, amely az ELTE programtervező informatikus BSc képzésének része.
+A Tikera (egy mozijegy-foglaló webalkalmazás) a **Kliensoldali Webprogramozás** kurzus végső beadandója, amely az ELTE programtervező informatikus BSc képzésének része.
 <br>A REST API-t biztosították, a fő feladat pedig a Tikera alkalmazás front-endjének elkészítése volt **React**, **Redux** és **RTK Query** használatával.
 
 ## Feladatok
