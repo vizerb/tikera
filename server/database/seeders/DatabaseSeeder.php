@@ -116,9 +116,9 @@ class DatabaseSeeder extends Seeder
         }, $movies);
         echo "Movies seeded: " . count($movies) . "\n";
 
-        // Create screenings from 2 months ago to 12 months in the future
+        // Create screenings from 1 months ago to 2 months in the future
         $startDate = Carbon::now()->addMonths(-1);
-        $endDate = Carbon::now()->addMonths(3);
+        $endDate = Carbon::now()->addMonths(2);
         
         while ($startDate->lte($endDate)) {
             // For each movie, create 2-4 screenings per day
