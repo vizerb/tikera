@@ -4,7 +4,7 @@
 
 ## About
 
-Tikera (a cinema ticket booking web app) is the final programming project for the **Client-side Web Programming** course, part of the Computer Science BSc program at ELTE.
+Tikera (a cinema ticket booking web app) was the final programming project for the **Client-side Web Programming** course, part of the Computer Science BSc program at ELTE.
 <br>The REST API was provided, and the main task was to develop the front-end of the Tikera application using **React**, **Redux**, and **RTK Query**.
 
 An earlier, more basic version of the project is hosted on Vercel: [tikkera.vercel.app](https://tikkera.vercel.app)
@@ -59,4 +59,5 @@ An earlier, more basic version of the project is hosted on Vercel: [tikkera.verc
 Admin user credentials:
 <br>email: `admin@example.com`
 <br>password: `admin`
+
 
